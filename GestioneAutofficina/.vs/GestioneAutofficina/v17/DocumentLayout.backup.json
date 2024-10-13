@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\controllers\\controllerveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\controllers\\controllerveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\service\\serviceveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\service\\serviceveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\models\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\models\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\models\\veicolopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\models\\veicolopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\service\\servicecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\service\\servicecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\controllers\\controllercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\controllers\\controllercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\models\\veicologetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\models\\veicologetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\models\\veicligetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\models\\veicligetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|c:\\users\\utente\\source\\repos\\gestioneautofficina\\gestioneautofficina\\repository\\repocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF740A8-3778-48F2-951A-BC2961B9BF53}|GestioneAutofficina\\GestioneAutofficina.csproj|solutionrelative:gestioneautofficina\\repository\\repocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeicoloPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\VeicoloPostDTO.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Models\\VeicoloPostDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\VeicoloPostDTO.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Models\\VeicoloPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:26:45.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veicolo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\Veicolo.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Models\\Veicolo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\Veicolo.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Models\\Veicolo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:15:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceVeicolo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Service\\ServiceVeicolo.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Service\\ServiceVeicolo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Service\\ServiceVeicolo.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Service\\ServiceVeicolo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwD8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:37:19.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeicoloGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\VeicoloGetDTO.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Models\\VeicoloGetDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\VeicoloGetDTO.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Models\\VeicoloGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:48:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Service\\ServiceCliente.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Service\\ServiceCliente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Service\\ServiceCliente.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Service\\ServiceCliente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:58:16.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerVeicolo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Controllers\\ControllerVeicolo.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Controllers\\ControllerVeicolo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Controllers\\ControllerVeicolo.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Controllers\\ControllerVeicolo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCQAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:25:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeiCliGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\VeiCliGetDTO.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Models\\VeiCliGetDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Models\\VeiCliGetDTO.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Models\\VeiCliGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:48:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControllerCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Controllers\\ControllerCliente.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Controllers\\ControllerCliente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Controllers\\ControllerCliente.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Controllers\\ControllerCliente.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:29:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Repository\\RepoCliente.cs",
+              "RelativeDocumentMoniker": "GestioneAutofficina\\Repository\\RepoCliente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\GestioneAutofficina\\GestioneAutofficina\\Repository\\RepoCliente.cs",
+              "RelativeToolTip": "GestioneAutofficina\\Repository\\RepoCliente.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:06:34.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
